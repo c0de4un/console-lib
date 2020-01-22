@@ -1,8 +1,7 @@
 # About
 Console Library - simple project with reusable code helping with platform-specific Console I/O.
 
-#Brief
-Features:
+# Features:
  - color switching (foreground & background) ;
  - localization ;
  - encoding (UTF-8, ASCII/ANSI) ;
