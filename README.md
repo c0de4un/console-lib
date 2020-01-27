@@ -1,5 +1,5 @@
 # About
-Console Library - simple project with reusable code helping with platform-specific Console I/O.
+Console Library - C++ simple project with reusable code helping with platform-specific Console I/O.
 
 # Features:
  - color switching (foreground & background) ;
@@ -10,4 +10,7 @@ Console Library - simple project with reusable code helping with platform-specif
  
  # Requirements
  API: C++ 11+
- Tools: CMake, Clang || GCC || MSVC
+ Tools: Visual Studio Community, QT5, CMake, Clang || GCC || MSVC
+
+# Bugs
+ - it's is possible, that Clang x32 for Windows won't work, so only x64 is available.
