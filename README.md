@@ -7,6 +7,7 @@ Console Library - C++ simple project with reusable code helping with platform-sp
  - encoding (UTF-8, ASCII/ANSI) ;
  - output switching (straight to the file) ;
  - clear screen, print char || line ;
+ - primitives drawing using console (on Windows it is possible to use pixels instead of chars) ;
  
  # Requirements
  API: C++ 11+
